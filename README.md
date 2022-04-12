@@ -1,2 +1,2 @@
-# Assignment BDA1 - Spark
-
+# big-data-analytics
+labs from course in Big Data analytics
