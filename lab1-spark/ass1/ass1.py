@@ -1,4 +1,4 @@
-lfrom pyspark import SparkContext
+from pyspark import SparkContext
 
 def max_temp(a, b):
     if a >= b:
